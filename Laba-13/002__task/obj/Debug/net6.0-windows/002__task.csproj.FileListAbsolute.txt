@@ -1,0 +1,17 @@
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\bin\Debug\net6.0-windows\002__task.exe
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\bin\Debug\net6.0-windows\002__task.deps.json
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\bin\Debug\net6.0-windows\002__task.runtimeconfig.json
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\bin\Debug\net6.0-windows\002__task.dll
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\bin\Debug\net6.0-windows\002__task.pdb
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.csproj.AssemblyReference.cache
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\_002__task.Form1.resources
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.csproj.GenerateResource.cache
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.AssemblyInfoInputs.cache
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.AssemblyInfo.cs
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.csproj.CoreCompileInputs.cache
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.dll
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\refint\002__task.dll
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.pdb
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\002__task.genruntimeconfig.cache
+D:\Education\University\Learning CSharp\Laba__13\Laba__13\002__task\obj\Debug\net6.0-windows\ref\002__task.dll
